@@ -1,13 +1,13 @@
 [🇬🇧 Read in English](README.md)
 
-# ⚙️ dotfiles — Configuración Personal de Terminal y Productividad
+# ⚙️ dotfiles — Configuración personal de terminal y productividad
 
 > 🇪🇸 **ES:** Archivos de configuración personal, herramientas de productividad en terminal, automatizaciones con AutoHotkey en Windows y flujo de documentación.  
 > 🇬🇧 **EN:** Personal configuration files, terminal productivity tools, Windows AutoHotkey automations, and documentation workflow.
 
 ---
 
-### 🖥️ Stack CLI en Linux y Herramientas de Productividad
+### 🖥️ Stack CLI en Linux
 
 Mi entorno diario en Linux (**Fedora Workstation**) está optimizado para la velocidad, la navegación mediante teclado y el diagnóstico rápido del sistema:
 
@@ -65,7 +65,7 @@ Junto con mi entorno de terminal, utilizo utilidades ligeras de escritorio para 
 
 * **Double Commander:** Gestor de archivos de doble panel para operaciones rápidas, comparación de directorios y navegación mediante teclado.
 * **CopyQ:** Gestor avanzado de portapapeles con historial buscable y fragmentos guardados para reutilizar comandos y texto rápidamente.
-* **ShareX:** Herramienta de captura y anotación de pantalla utilizada para generar capturas de terminal limpias y recortadas para la documentación técnica.
+* **ShareX:** Herramienta de captura y grabación de pantalla utilizada para generar capturas, videos y gifs de terminal limpios y recortados para la documentación técnica.
 * **f.lux:** Utilidad adaptativa de temperatura de color de pantalla para reducir la fatiga visual durante largas sesiones de laboratorio y programación.
 * **John's Background Switcher:** Gestor de fondos de pantalla utilizado para mantener un entorno visual limpio y rotativo en múltiples monitores.
 
