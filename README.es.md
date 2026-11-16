@@ -66,7 +66,7 @@ Junto con mi entorno de terminal, utilizo utilidades ligeras de escritorio para 
 * **Double Commander:** Gestor de archivos de doble panel para operaciones rápidas, comparación de directorios y navegación mediante teclado.
 * **CopyQ:** Gestor avanzado de portapapeles con historial buscable y fragmentos guardados para reutilizar comandos y texto rápidamente.
 * **ShareX:** Herramienta de captura y anotación de pantalla utilizada para generar capturas de terminal limpias y recortadas para la documentación técnica.
-* **f.lux:** Utilidad adaptativa de temperatura de color de pantalla para reducir la fatiga visual durante largas sesiones nocturnas de laboratorio y programación.
+* **f.lux:** Utilidad adaptativa de temperatura de color de pantalla para reducir la fatiga visual durante largas sesiones de laboratorio y programación.
 * **John's Background Switcher:** Gestor de fondos de pantalla utilizado para mantener un entorno visual limpio y rotativo en múltiples monitores.
 
 ---
