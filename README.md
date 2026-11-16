@@ -1,13 +1,13 @@
 # dotfiles
 
-# ⚙️ dotfiles — Personal CLI & Productivity Setup
+# dotfiles — Personal CLI, Productivity Setup
 
 > 🇬🇧 **EN:** Personal configuration files, terminal productivity tools, Windows AutoHotkey automations, and documentation workflow.  
 > 🇪🇸 **ES:** Archivos de configuración personal, herramientas de productividad en terminal, automatizaciones AutoHotkey en Windows y flujo de documentación.
 
 ---
 
-### 🖥️ Linux CLI Stack & Productivity Tools
+### 🖥️ Linux CLI Stack
 
 My daily Linux environment (Fedora Workstation) is optimized for speed, keyboard-driven navigation, and quick system diagnostics:
 
@@ -63,8 +63,8 @@ Alongside my terminal setup, I rely on lightweight desktop utilities to speed up
 
 * **Double Commander:** Dual-pane file manager for fast file operations, directory comparison, and keyboard-driven navigation.
 * **CopyQ:** Advanced clipboard manager with searchable history and snippets for quick command and text reuse.
-* **ShareX:** Screen capture and annotation tool used to produce clean, cropped terminal screenshots for technical documentation.
-* **f.lux:** Adaptive display color temperature utility to reduce eye strain during long late-night lab and coding sessions.
+* **ShareX:** Screen capture and record tool used to produce clean, cropped terminal screenshots, videos and gifs for technical documentation.
+* **f.lux:** Adaptive display color temperature utility to reduce eye strain during night lab and coding sessions.
 * **John's Background Switcher:** Wallpaper manager used to keep a clean, rotating workspace aesthetic across multiple monitors.
 
 ---
