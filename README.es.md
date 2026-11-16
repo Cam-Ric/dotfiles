@@ -44,8 +44,8 @@ Scripts personalizados de **AutoHotkey** ubicados en [`windows/autohotkey/`](win
 
 Más allá de los archivos de configuración, mi flujo de trabajo técnico diario se apoya en una documentación estructurada:
 
-* **Obsidian:** Base de conocimiento local en Markdown (*Segundo Cerebro*) para comandos de Linux, apuntes de redes, guías operativas (*runbooks*) de *hardening* de servidores y registros de resolución de problemas.
-* **Notion:** Seguimiento de proyectos, hojas de ruta de estudio de ASIR y organización de tareas de laboratorio.
+* **Obsidian:** Base de conocimiento local en Markdown (*Segundo Cerebro*) utilizada para leer PDFs, organizar guías técnicas y conectar visualmente conceptos de Linux, redes y *hardening* de servidores mediante su **Graph View**.
+* **Notion:** Espacio de trabajo flexible aprovechado por sus bases de datos relacionales, sincronización instantánea con su app móvil, facilidad para compartir páginas con un clic y su formato visual enriquecido (desplegables, imágenes, enlaces e integraciones web) para gestionar proyectos e intereses.
 
 ---
 
