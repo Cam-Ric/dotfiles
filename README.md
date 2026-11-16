@@ -1,6 +1,6 @@
 # dotfiles
 
-# dotfiles — Personal CLI, Productivity Setup
+## Personal CLI, Productivity Setup
 
 > 🇬🇧 **EN:** Personal configuration files, terminal productivity tools, Windows AutoHotkey automations, and documentation workflow.  
 > 🇪🇸 **ES:** Archivos de configuración personal, herramientas de productividad en terminal, automatizaciones AutoHotkey en Windows y flujo de documentación.
