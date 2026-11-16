@@ -44,8 +44,9 @@ Custom **AutoHotkey** scripts located in [`windows/autohotkey/`](windows/autohot
 
 Beyond configuration files, my daily technical workflow relies heavily on structured documentation:
 
-* **Obsidian:** Local-first Markdown knowledge base (*Second Brain*) for Linux commands, networking notes, server hardening runbooks, and troubleshooting logs.
-* **Notion:** Project tracking, ASIR study roadmaps, and lab task organization.
+* **Obsidian:** Local-first Markdown knowledge base (*Second Brain*) used for reading PDFs, organizing technical guides, and connecting Linux, networking, and server hardening concepts visually through its **Graph View**.
+* **Notion:** Flexible workspace leveraged for its relational databases, instant mobile app sync, one-click public page sharing, and rich visual formatting (toggles, embeds, images, and web integrations) to manage projects and interests.
+
 
 ### 🔐 Security, Encryption & Password Management
 
