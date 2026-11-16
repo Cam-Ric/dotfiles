@@ -57,7 +57,7 @@ Tools I rely on daily to protect sensitive data, cloud backups, and credentials:
 
 ---
 
-### 💻 Desktop & GUI Productivity Tools (Windows tools)
+### 💻 Desktop & GUI Productivity Tools (these working on windows, many of them are crossplatform)
 
 Alongside my terminal setup, I rely on lightweight desktop utilities to speed up file management, technical documentation, and daily workflows:
 
