@@ -9,7 +9,7 @@
 
 ### 🖥️ Linux CLI Stack
 
-My daily Linux environment (Fedora Workstation) is optimized for speed, keyboard-driven navigation, and quick system diagnostics:
+My daily Linux environment (Debian at this moment, i think in use rolling-release distros in near future) is optimized for speed, keyboard-driven navigation, and quick system diagnostics:
 
 * **Shell & Multiplexer:** `Zsh`, `Tmux`
 * **Navigation & Search:** `fzf` (fuzzy history search `Ctrl+R`), `zoxide` (smart directory jumping), `fd` (fast file finder), `ripgrep` (recursive text search)
