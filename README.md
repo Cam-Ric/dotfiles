@@ -21,22 +21,12 @@ My daily Linux environment (Fedora Workstation) is optimized for speed, keyboard
 ### 📸 Terminal Showcase
 
 #### Interactive History Search (`fzf` + `Ctrl+R`)
-![Terminal output showing interactive fuzzy history search with fzf](screenshots/fzf-history.png)
+![Terminal output showing interactive fuzzy history search with fzf](screenshots/FzF-search-interactive-command.png)
 
 #### Workspace & Multiplexing (`tmux` + `eza` + `btop`)
-![Terminal workspace split into panes using tmux with eza and system utilities](screenshots/tmux-workspace.png)
+![Terminal workspace split into panes using tmux with eza and system utilities](screenshots/tmux-workflow-demo.png)
 
 *(Add or update screenshot filenames inside the `screenshots/` folder as you upload them).*
-
----
-
-### 🪟 Windows Automation (`AutoHotkey`)
-
-Custom **AutoHotkey** scripts located in [`windows/autohotkey/`](windows/autohotkey/) to streamline daily tasks on Windows 10:
-
-* **Window & Workspace Management:** Quick shortcuts to snap, resize, and switch between study and lab windows.
-* **App & Terminal Launchers:** Instant hotkeys to open SSH clients, browsers, and documentation tools.
-* **Text Expansion & Macros:** Snippets for frequent commands, Markdown templates, and repetitive paths.
 
 ---
 
