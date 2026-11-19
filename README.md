@@ -21,10 +21,10 @@ My daily Linux environment (Fedora Workstation) is optimized for speed, keyboard
 ### 📸 Terminal Showcase
 
 #### Interactive History Search (`fzf` + `Ctrl+R`)
-![Terminal output showing interactive fuzzy history search with fzf](screenshots/FzF-search-interactive-command.png)
+![Terminal output showing interactive fuzzy history search with fzf](screenshots/FzF-search-interactive-commandos.png)
 
 #### Workspace & Multiplexing (`tmux` + `eza` + `btop`)
-![Terminal workspace split into panes using tmux with eza and system utilities](screenshots/tmux-workflow-demo.png)
+![Terminal workspace split into panes using tmux with eza and system utilities](screenshots/tmux-workflox-demo.png)
 
 *(Add or update screenshot filenames inside the `screenshots/` folder as you upload them).*
 
