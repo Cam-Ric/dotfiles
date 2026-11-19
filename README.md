@@ -26,8 +26,6 @@ My daily Linux environment (Debian at this moment, i think in use rolling-releas
 #### Workspace & Multiplexing (`tmux` + `eza` + `btop`)
 ![Terminal workspace split into panes using tmux with eza and system utilities](screenshots/tmux-workflox-demo.png)
 
-*(Add or update screenshot filenames inside the `screenshots/` folder as you upload them).*
-
 ---
 
 ### 📝 Knowledge Management & Documentation Workflow
@@ -36,7 +34,7 @@ Beyond configuration files, my daily technical workflow relies heavily on struct
 
 * **Obsidian:** Local-first Markdown knowledge base (*Second Brain*) used for reading PDFs, organizing technical guides, and connecting Linux, networking, and server hardening concepts visually through its **Graph View**.
 * **Notion:** Flexible workspace leveraged for its relational databases, instant mobile app sync, one-click public page sharing, and rich visual formatting (toggles, embeds, images, and web integrations) to manage projects and interests.
-
+![Obsidian](screenshots/Obsidian-graph-view.png)
 
 ### 🔐 Security, Encryption & Password Management
 
